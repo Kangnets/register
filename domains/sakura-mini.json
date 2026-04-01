@@ -3,9 +3,9 @@
   "repo": "https://github.com/Kangnets/sakura-mini",
   "owner": {
     "username": "Kangnets",
-    "email": ""
+    "email": "kangnets@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "cname.vercel-dns.com"
   }
 }
